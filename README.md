@@ -1,67 +1,9 @@
 # PELSA-Decipher
-#  
 
+User Manual
+(Version: Beta 0.1.0)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<center><font size="13" ><b>PELSA-Decipher</b></font></center>
-
-
-
-
-
-
-
-
-
-   
-
-<center><font size="6">User Manual</font></center>
-
-
-<center><font size="4">(Version: Beta 0.1.0)</font></center>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<center><font size="4">Developed by Group1809, Dalian Institute of Chemical Physics,</font></center>
-
-<center><font size="4">Chinese Academy of Sciences</font></center>
-
-
-
-
-
-
-
-
+Developed by Group1809, Dalian Institute of Chemical Physics, Chinese Academy of Sciences
 
 ## Contents
 
