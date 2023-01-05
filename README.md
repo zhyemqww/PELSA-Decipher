@@ -7,7 +7,7 @@ Developed by Group1809, Dalian Institute of Chemical Physics, Chinese Academy of
 
 ## Contents
 
-[**<font color=#34495e>Contact</font>**](# contact)
+[**Contact**](# contact)
 
 [**<font color=#34495e>Address</font>**](# address)
 
