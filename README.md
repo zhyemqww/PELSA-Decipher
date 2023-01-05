@@ -7,47 +7,46 @@ Developed by Group1809, Dalian Institute of Chemical Physics, Chinese Academy of
 
 ## Contents
 
-[**Contact**](# contact)
+**Contact**
 
-[**<font color=#34495e>Address</font>**](# address)
+**Address**
 
-[**<font color=#34495e>Scope of PELSA-Decipher</font>**](# Scope of PELSA-Decipher)
+**Scope of PELSA-Decipher**
+1. Getting Started
 
-[<font color=#34495e>1. Getting Started</font>](# 1. Getting Started)
+​	1.1 Installing PELSA-Decipher
 
-​	[<font color=#34495e>1.1 Installing PELSA-Decipher</font>](# 1.1 Installing PELSA-Decipher)
+​	1.2 Installing R
 
-​	[<font color=#34495e>1.2 Installing R</font>](# 1.2 Installing R)
+​	1.3 Configuring Environment Variables
 
-​	[<font color=#34495e>1.3 Configuring Environment Variables</font>](# 1.3 Configuring Environment Variables)
+2. The Format of input Files and Data
 
-[<font color=#34495e>2. The Format of input Files and Data</font>](# 2. The Format of input Files and Data)
+​	2.1 File Format
 
-​	[<font color=#34495e>2.1 File Format</font>](# 2.1 File Format)
+​	2.2 Data Format
 
-​	[<font color=#34495e>2.2 Data Format</font>](# 2.2 Data Format)
+3. Module Introduction
 
-[<font color=#34495e>3. Module Introduction</font>](# 3. Module Introduction)
+​	3.1 Statistical Testing
 
-​	[<font color=#34495e>3.1 Statistical Testing</font>](# 3.1 Statistical Testing)
+​	3.2 Local Stability Plot
 
-​	[<font color=#34495e>3.2 Local Stability Plot</font>](# 3.2 Local Stability Plot)
+​	3.3 Pro/Pep Affinity
 
-​	[<font color=#34495e>3.3 Pro/Pep Affinity</font>](# 3.3 Pro/Pep Affinity)
+4. Demo
 
-[<font color=#34495e>4. Demo</font>](# 4. Demo)
+​	4.1 Statistical Testing
 
-​	[<font color=#34495e>4.1 Statistical Testing</font>](# 4.1 Statistical Testing)
+​	4.2 Local Stability Plot
 
-​	[<font color=#34495e>4.2 Local Stability Plot</font>](# 4.2 Local Stability Plot)
+​	4.3 Pro/Pep Affinity
 
-​	[<font color=#34495e>4.3 Pro/Pep Affinity</font>](# 4.3 Pro/Pep Affinity)
+5. Common Problems and Solutions
 
-[<font color=#34495e>5. Common Problems and Solutions</font>](# 5. Common Problems and Solutions)
+​	5.1 Cannot be opened
 
-​	[<font color=#34495e>5.1 Cannot be opened</font>](# 5.1 Cannot be opened)
-
-​	[<font color=#34495e>5.2 Unexpected termination</font>](# 5.2 Unexpected termination)
+​	5.2 Unexpected termination
 
 
 
