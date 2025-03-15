@@ -37,8 +37,8 @@ It is recommended to use PELSA-Decipher of the latest version, which could be do
 
 ## License Application
 
-PLESA-Decipher is a free software and the license is requested only for the purpose of understanding the use of the software and providing a better service. We promise that all your information will only be used for statistical purposes and will not be disclosed to any third party. We mainly distinguish you as academic user or industrial users according to your institution email address. So please apply the license with your institution email address. 
-PLESA is a patented technology. The industrial users need to obtain license to use PELSA first via contact PELSA_Decipher@163.com. And after approval, we will send you the licence to use PLESA-Decipher. 
+PELSA-Decipher is a free software and the license is requested only for the purpose of understanding the use of the software and providing a better service. We promise that all your information will only be used for statistical purposes and will not be disclosed to any third party. We mainly distinguish you as academic user or industrial users according to your institution email address. So please apply the license with your institution email address. 
+PELSA is a patented technology. The industrial users need to obtain license to use PELSA first via contact PELSA_Decipher@163.com. And after approval, we will send you the licence to use PELSA-Decipher. 
 
 ![演示文稿_1](https://github.com/user-attachments/assets/b16a8f2b-c404-4194-bbbd-038e99509588)
 
