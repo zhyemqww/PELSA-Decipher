@@ -33,8 +33,6 @@ It is recommended to use PELSA-Decipher of the latest version, which could be do
 
 + Operating System: Windows 10/11, x64
 
-+ R Version: 4.X (X >= 3)
-
 ## License Application
 
 PELSA-Decipher is a free software and the license is requested only for the purpose of understanding the use of the software and providing a better service. We promise that all your information will only be used for statistical purposes and will not be disclosed to any third party. We mainly distinguish you as academic user or industrial users according to your institution email address. So please apply the license with your institution email address. 
